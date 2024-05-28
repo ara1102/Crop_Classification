@@ -1,6 +1,6 @@
 # Crop_Classification
 
-Comparing 5 Classification Algorithm to predict appropriate crops
+Compare five classification algorithms and perform hyperparameter tuning using GridSearchCV to accurately predict appropriate crops
 - K-nearest neighbors (KNN)
 - Decision Tree
 - Naive Bayes
